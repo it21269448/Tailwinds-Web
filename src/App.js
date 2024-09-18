@@ -1,6 +1,7 @@
 import React from 'react';
 import './output.css';
 import Header from './Header';
+import Footer from './Footer';
 import image1 from './images/p1.jpg';
 import image2 from './images/p2.jpg';
 import image3 from './images/p3.jfif';
@@ -8,6 +9,7 @@ import image4 from './images/p4.jfif';
 
 const App = () => {
   return (
+    <div>
     <div className="bg-purple-100">
       <Header />
       
@@ -135,9 +137,16 @@ const App = () => {
         </div>
        
         </div>
-
-      </div>
+        
        
+      </div>
+    
+
+     
+
+    
+      </div>
+      <Footer />
       </div>
       
   );
