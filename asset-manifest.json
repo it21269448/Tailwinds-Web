@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Tailwind-CSS-Web/static/css/main.05e4d57e.css",
+    "main.js": "/Tailwind-CSS-Web/static/js/main.733dad52.js",
+    "static/media/p2.jpg": "/Tailwind-CSS-Web/static/media/p2.4caa61243d7a119b9020.jpg",
+    "static/media/p1.jpg": "/Tailwind-CSS-Web/static/media/p1.f39b731a4e89098b4c77.jpg",
+    "static/media/p3.jfif": "/Tailwind-CSS-Web/static/media/p3.446cb2653df8ea35186a.jfif",
+    "static/media/p4.jfif": "/Tailwind-CSS-Web/static/media/p4.22e4b5901a2a644dd5ad.jfif",
+    "static/media/logo1.png": "/Tailwind-CSS-Web/static/media/logo1.c9bf2c4e56e4dcff91e6.png",
+    "index.html": "/Tailwind-CSS-Web/index.html",
+    "main.05e4d57e.css.map": "/Tailwind-CSS-Web/static/css/main.05e4d57e.css.map",
+    "main.733dad52.js.map": "/Tailwind-CSS-Web/static/js/main.733dad52.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05e4d57e.css",
+    "static/js/main.733dad52.js"
+  ]
+}
